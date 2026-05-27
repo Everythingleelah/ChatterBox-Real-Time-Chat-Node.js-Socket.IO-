@@ -136,4 +136,4 @@ CMD ["node", "server.js"]
 
 ## License
 
-MIT — free to use, fork, and deploy.
+MIT: free to use.
