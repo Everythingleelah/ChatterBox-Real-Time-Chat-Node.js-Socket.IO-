@@ -1,7 +1,7 @@
 /**
  * ChatterBox — Real-Time Chat Server
  * Node.js + Express + Socket.IO
- * Author: Your Name | License: MIT
+ * Author: Deborah Lambert | License: MIT
  */
 
 const express = require("express");
